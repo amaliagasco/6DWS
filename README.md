@@ -1,4 +1,7 @@
 
+Adrian Tendero Lara
+=======
+
  # Proyecto 6DWS
 
 **Nombre y apellidos:** Reina gumucio
@@ -24,6 +27,5 @@ Apellidos: Paun Cezar
 Joan Mauriz Rodrigo
 =======
 Alex Dominguez Megino
-
 
 

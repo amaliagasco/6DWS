@@ -1,4 +1,9 @@
 
+El Señor de los Anillos: la Comunidad del Anillo --- Peter Jackson
+Las Guerras de las Galaxias: Una nueva esperanza --- George Lucas
+Blade --- Stephen Norrington
+=======
+
 <zootropolis2>
 <Stick>
 <Emily>
@@ -23,4 +28,5 @@ El chico y la garza
 Pulp Fiction
 Se7en
 Gone Girl
+
 
