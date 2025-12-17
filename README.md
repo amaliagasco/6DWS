@@ -1,4 +1,7 @@
 
+Realizado por: Mario Juanes Ábalos
+=======
+
 Isabel Monzonís Hinarejos
 =======
 
@@ -36,6 +39,7 @@ Apellidos: Paun Cezar
 Joan Mauriz Rodrigo
 =======
 Alex Dominguez Megino
+
 
 
 
